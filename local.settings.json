@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "TokenApiKey": "YOUR API KEY GOES HERE",
+    "TokenUri": "https://eastus.api.cognitive.microsoft.com/sts/v1.0/issueToken",
+    "Voice": "en-US-EmmaNeural",
+    "TTSUri": "https://eastus.tts.speech.microsoft.com/cognitiveservices/v1",
+    "AzureSpeechResourceName": "WordADay-Speech"
+  }
+}
